@@ -1,8 +1,3 @@
-# Awesome Universal App Development
+# Your Awesome Web3
 
-List of Resources to build universal app with Nextjs and Expo. 👍
-
-
-
-
-## Coming Soon... :rocket:
+List of Resources to learn and build real life applications on Web3 with Solana and Polkadot Blockchains.
