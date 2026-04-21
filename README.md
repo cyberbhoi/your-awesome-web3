@@ -1,3 +1,4 @@
-# Your Awesome Web3
+# Your Awesome Blockchain and Web3 Development resources with Rust
 
-List of Resources to learn and build real life applications on Web3 with Solana and Polkadot Blockchains.
+
+Intro to Blockchain with ...
